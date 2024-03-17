@@ -1,0 +1,135 @@
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #906e05;
+}
+.main-menu .navbar-default .navbar-nav .active a{
+	color: #906e05;
+}
+.main-menu nav li a::after {
+    background: #906e05;
+}
+.typer{
+	color: #906e05 !important;
+}
+.banner-text h2{
+	color: #906e05
+}
+.book-btn a{
+	background: #906e05;
+	border: 3px solid #906e05;
+}
+.book-btn a:hover{
+	border: 3px solid #906e05;
+}
+.hvr-underline-from-center::before{
+	background:#906e05;
+}
+.block-title{
+	color: #906e05;
+}
+.item-type-zoom .item-hover:hover::before{
+	background: rgba(231, 91, 30, 0.5);
+}
+.special-box .owl-theme .owl-controls .owl-page.active span{
+	background: #906e05;
+}
+.offer-item div h3{
+	color: #906e05;
+}
+.tab-menu .is-active{
+	background: #906e05;
+}
+.tab-menu .slick-arrow.slick-prev{
+	background: #906e05 url(../../images/back.png) no-repeat center;
+	background-position: 2px 4px;
+}
+.tab-menu .slick-arrow.slick-next{
+	background: #906e05 url(../../images/next.png) no-repeat center;
+	background-position: 7px 4px;
+}
+
+.offer-item .offer-price{
+	border: 1px solid #906e05;
+}
+.sf-team:hover .text-col{
+	background-color: #906e05;
+}
+.gal-item a::after{
+	background-color: rgba(231, 91, 30, 0.75);
+}
+.overlay i:hover{
+	border: 1px solid #906e05;
+	color: #906e05;
+}
+.blog-btn-v a{
+	background: #906e05;
+	border: 3px solid #906e05;
+}
+.book-srv a{
+	background: #906e05;
+	border: 3px solid #906e05;
+}
+
+.panel-pricing .panel-heading{
+	background: #906e05;
+}
+.panel-pricing{
+	border: 1px solid #906e05;
+}
+.panel-body p strong span{
+	color: #906e05;
+}
+.pricing-main .panel-footer a{
+	background: #906e05;
+	border: 3px solid #906e05;
+}
+.pricing-main .panel-footer a:hover{
+	border: 3px solid #906e05;
+}
+
+.reserve-book-btn button{
+	background: #906e05;
+	border: 3px solid #906e05;
+}
+.reserve-book-btn button:hover a{
+	color:#000000;
+}
+.footer-news form a{
+	background: #906e05;
+}
+.footer-news form a:hover{
+	border: 2px dotted #906e05;
+}
+.footer-box-a h3{
+	color: #906e05;
+}
+.footer-box-b h3{
+	color: #906e05;
+}
+.footer-box-c h3{
+	color: #906e05;
+}
+.footer-box-d h3{
+	color: #906e05;
+}
+.footer-box-c p a:hover{
+	color: #906e05;
+}
+.footer-box-b ul li a:hover{
+	color: #906e05;
+}
+
+.footer-box .socials-box a:hover .social-circle-border{
+	color: #906e05;
+}
+
+.footer-box-c p i{
+	color: #906e05;
+}
+
+.copyright-main{
+	background: #000000;
+}
+
+#color-panel a.panel-button:hover{
+	color: #906e05;		
+}
